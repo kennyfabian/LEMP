@@ -17,7 +17,7 @@
 
 ### Notes:
 
-+ Make sure you give the correct privilege to the scripts before running them
++ Make sure you give the right privileges to the scripts before running them
 + Some of the scripts may need human interaction to set basic parameters
 + Every script in this set was tested and verified on Ubuntu 18.04 LTS
 
