@@ -28,4 +28,4 @@
 
 ## Author:
 
-* **Kenny Fabian** - [LinkedIn](https://linkedin.com/in/kennyfabianh)
+* **Kenny Fabian** - [LinkedIn](https://linkedin.com/in/kennyfabian)
