@@ -8,8 +8,9 @@
 + ##### NginX
 + ##### MySQL
 + ##### Composer
-+ ##### Node
++ ##### Node (and NPM)
 + ##### Redis
++ ##### Yarn
 
 ### Pre-requisites:
 
@@ -28,4 +29,4 @@
 
 ## Author:
 
-* **Kenny Fabian** - [LinkedIn](https://linkedin.com/in/kennyfabian)
+* **[Kenny Fabian](https://linkedin.com/in/kennyfabian)**
