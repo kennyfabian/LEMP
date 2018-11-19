@@ -7,7 +7,7 @@
 + ##### PHP
 + ##### NginX
 + ##### MySQL
-+ ##### Composer (The Composer Script needs an update to fetch automatically the installer's Hash, currently is using the latest)
++ ##### Composer
 + ##### Node (and NPM)
 + ##### Redis
 + ##### Yarn
