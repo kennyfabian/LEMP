@@ -18,4 +18,4 @@
   -  After checking the errors or current defects in the service log we shall proceed to mitigate them as soon as possible  by debugging, there are several tactics we can apply, we just have to make sure to test it and confirm it works for good before running it on a production environment, and then when that happens, keep a constant monitoring on its behaviour to make sure it doesn't happen again.
 
 ## Author:
-* [**Kenny Fabian**](www.linkedin.com/in/kennyfabianh)
+* [**Kenny Fabian**](www.linkedin.com/in/kennyfabian)
